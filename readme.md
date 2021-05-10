@@ -31,10 +31,10 @@ Everything a Media starup needs from early stage idea validation up to tech for 
 - [App Frameworks](#app-frameworks)
 - [Analytics](#analytics)
 - [Protoyping](#protoyping)
-- [Automation Tools](#automation-tools)
 - [Productivity](#productivity)
 - [Media production tools](#media-production-tools)
 - [Pitch Resources](#pitch-resources)
+- [License](#license)
 
 <!-- CONTENT -->
 ## Hosting and Cloud Platforms
@@ -60,7 +60,7 @@ Everything a Media starup needs from early stage idea validation up to tech for 
 - [Matomo](https://matomo.org/) - Leading open-source analytics platform that gives you more than just powerful analytics, formerly known as Piwik.
 - [Hotjar](https://www.hotjar.com/) - new and easy way to truly understand your web and mobile site visitors.
 - [userTrack](https://www.usertrack.net/) - Self-hosted web analytics with heatmaps, session-recordings, A/B tests and more.
-- [Focal Analytics](https://focal-analytics.com/) - 
+- [Focal Analytics](https://focal-analytics.com/) - Daten schnell und intuitiv erfassen, zusammenführen, analysieren und interpretieren.
 
 
 ## Protoyping 
@@ -69,13 +69,15 @@ Everything a Media starup needs from early stage idea validation up to tech for 
 - [Pastel](https://usepastel.com/) - Review tool for websites. 
 - [Figma](https://www.figma.com/) - Collabrative design tool to create interactive mockups. 
 
-## Automation Tools
-- [Airtable](https://airtable.com/) - Integrate other services and control workflows from Airtable.   
-- [Zapier](https://zapier.com/) - Create automations integrating   
+
 
 ## Productivity
 - [Monday](https://monday.com/) - Project Management Tool. 
 - [Notion](https://www.notion.so/) - The all in one Workspace to manage projects safe notes and more.
+- [Asana](https://asana.com/) - Track your team's work & manage projects
+- [Trello](https://trello.com/) - Create and manage kanban boards
+- [Airtable](https://airtable.com/) - Integrate other services and control workflows from Airtable.   
+- [Zapier](https://zapier.com/) - Create automations integrating  
 
 
 ## Media production tools
